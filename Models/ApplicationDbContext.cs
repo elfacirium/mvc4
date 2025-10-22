@@ -9,7 +9,7 @@ namespace cvicenie_mvc.Models
         {
         }
 
-        // Тут додай таблиці
         public DbSet<StudentModel> Students { get; set; }
     }
 }
+
